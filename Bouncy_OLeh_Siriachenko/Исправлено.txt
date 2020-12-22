@@ -1,0 +1,7 @@
+- cursor pointer
+- meta name
+- team section - smaller + background white
+- адаптив
+- portfolio - миникнопки не стают овальными
+- 
+
